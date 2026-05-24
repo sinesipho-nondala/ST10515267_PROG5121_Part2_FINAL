@@ -26,5 +26,10 @@
 ### Description:
 - Added fuctionality to store messages permanently.
 - Auto - creates messages.json file. Uses org.json to format and save data correctly
-
+## Unit Test
+### Message:
+- Test: Add LoginTest and MessageTest - all unit tests passing
+### Description:
+- Wrote complete JUnit tests: validate login rules, message creation, hash coorrectness, JSON storage.
+- All tests pass
   
