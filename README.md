@@ -2,6 +2,13 @@
 - Student name: Sinesipho
 - Studnet lastname: Nondala
 - Module: Programming 
-  ---
+---
+## Features
+User Login & Registration
+Send Message 
+Disregard Message
+Store Message
+Unit Tests: LoginTest, MessageTest
+Github Actions
   
   
