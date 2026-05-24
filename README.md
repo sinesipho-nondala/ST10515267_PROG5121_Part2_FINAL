@@ -32,4 +32,12 @@
 ### Description:
 - Wrote complete JUnit tests: validate login rules, message creation, hash coorrectness, JSON storage.
 - All tests pass
-  
+  ## How to Run
+  - javac -d. *.java
+  - java com.mycompany.chatapppart1.MainApp
+## Run Tests
+- java -cp .;junit-4.13.2jar org.junit.runner.JUnitCore
+- com.mycompany.chatapppart1.LoginTest
+- com.mycompany.chatapppart1.MessageTest
+
+    
